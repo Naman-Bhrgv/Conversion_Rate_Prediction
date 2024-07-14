@@ -1,4 +1,5 @@
 import sys
+from src.logger import logging
 
 # generates custom error message
 def error_detail(err,err_dt):
